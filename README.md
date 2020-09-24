@@ -12,14 +12,14 @@
 <br />
 
 <h3>🛠 Tech Stack</h3>
-- HTML
-- CSS
-- Twitter Bootstrap
-- JavaScript
-- React
-- Redux
-- Git
-- Webpack
+- &nbsp; HTML
+- &nbsp; CSS
+- &nbsp; Twitter Bootstrap
+- &nbsp; JavaScript
+- &nbsp; React
+- &nbsp; Redux
+- &nbsp; Git
+- &nbsp; Webpack
 <br/>
 
 [![AAndrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andryush&show_icons=true)](https://github.com/AVS1508)
