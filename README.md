@@ -19,7 +19,9 @@
 - MaterialUI
 - JavaScript
 - React
+- React Router
 - Redux
+- Redux Thunk
 - Git
 - Webpack
 
