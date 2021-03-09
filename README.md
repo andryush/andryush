@@ -15,7 +15,8 @@
 
 - HTML
 - CSS
-- Twitter Bootstrap
+- Bootstrap
+- MaterialUI
 - JavaScript
 - React
 - Redux
