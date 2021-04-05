@@ -18,6 +18,7 @@
 - Bootstrap
 - MaterialUI
 - JavaScript
+- TypeScript
 - React
 - React Router
 - Redux
