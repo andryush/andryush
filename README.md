@@ -17,10 +17,12 @@
 - CSS
 - Bootstrap
 - MaterialUI
+- AntDesign
 - JavaScript
 - TypeScript
+- GraphQL
+- Apollo
 - React
-- React Router
 - Redux
 - Redux Thunk
 - Git
