@@ -1,5 +1,3 @@
-## Hi there! 👋</h2>
-
 <a href="https://www.linkedin.com/in/arakelyan-andrey/">
   <img align="left" alt="Andrey's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -11,7 +9,7 @@
 </a>
 <br />
 
-<h3>🛠 Tech Stack</h3>
+<h3>Tech Stack</h3>
 
 - HTML
 - CSS
