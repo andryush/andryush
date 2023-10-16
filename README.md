@@ -11,20 +11,17 @@
 
 <h3>Tech Stack</h3>
 
-- HTML
-- CSS
-- Bootstrap
-- MaterialUI
-- AntDesign
 - JavaScript
 - TypeScript
+- ReactJS
+- NextJS
+- React Native
 - GraphQL
 - Apollo
-- React
 - Redux
-- Redux Thunk
-- Git
-- Webpack
+- Jest
+- LESS
+- SASS
 
 <br/>
 
